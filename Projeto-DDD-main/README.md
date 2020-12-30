@@ -1,2 +1,2 @@
 # Projeto-DDD
-Projeto DDD C# entregue no bootcamp decolaDev 2021
+Projeto DDD C# desenvolvido no bootcamp DecolaDev 2021
